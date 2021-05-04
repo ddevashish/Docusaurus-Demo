@@ -2,7 +2,7 @@
 module.exports = {
   title: 'Ignite',
   tagline: 'Connect systems by building automated flows using drag and drop!',
-  url: 'https://docs.cgignite.com/',
+  url: 'https://dashboard.heroku.com/apps/docusaurus-demo/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
